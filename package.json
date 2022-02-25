@@ -34,11 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "jest": "^27.5.1"
-=======
->>>>>>> 1bcde33 (Initialize project using Create React App)
   }
 }
