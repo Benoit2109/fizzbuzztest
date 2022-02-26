@@ -52,5 +52,4 @@ test('when given 1,5 should return 12fizz4buzz', () => {
 
 test('when given 1,15 should return 12fizz4buzzfizz78fizzbuzz11fizz1314fizzbuzz', () => {
   expect(fizzbuzz(1,15)).toBe('12fizz4buzzfizz78fizzbuzz11fizz1314fizzbuzz');
-})
-
+});
